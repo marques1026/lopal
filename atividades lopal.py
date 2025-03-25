@@ -116,7 +116,7 @@ for num in range(1, 11):
 
 print("lista de numeros")
 lista = int(input("insira a quantidade de numeros"))
-for num in range
+for num in range(1, 10)
 
 
 
